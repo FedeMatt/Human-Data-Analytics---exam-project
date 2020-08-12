@@ -1,6 +1,8 @@
 # Human Data Analytics - exam project
 
 
-Copy of the original repository used for the exam project. 
+Copy of the paper used for the exam project. 
+
+Original repository: https://github.com/domsoli/HDA-project 
 
 Details and info in the paper.
